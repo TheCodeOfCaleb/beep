@@ -1,4 +1,4 @@
-module github.com/gopxl/beep/v2
+module github.com/TheCodeOfCaleb/beep/v2
 
 go 1.21
 
